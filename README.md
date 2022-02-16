@@ -1,1 +1,1 @@
-# streamprofilerapp.github.io
+# riverprofileapp.github.io
